@@ -1,0 +1,2 @@
+com.zone.common.log.service.AsyncLogService
+com.zone.common.log.aspect.LogAspect
